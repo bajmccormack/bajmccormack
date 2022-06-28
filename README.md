@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bajmccormack
-- 👀 I’m interested in SQL Server, Azure and AWS.
-- 🌱 I’m currently learning ElasticSearch / AWS Opensearch.
+- 👀 I’m interested in SQL Server, Azure and AWS
+- 🌱 I’m currently learning German
 - 📫 How to reach me: Twitter @actualjohn
 
 <!---
