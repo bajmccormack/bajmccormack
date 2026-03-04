@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bajmccormack
 - 👀 I’m interested in SQL Server, Azure and AWS
-- 🌱 I’m currently learning German
-- 📫 How to reach me: Twitter @actualjohn
+- 🌱 I’m currently studying science at Open university.
+- 📫 How to reach me: LinkedIn @johnmccormackdba
 
 <!---
 bajmccormack/bajmccormack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
